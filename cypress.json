@@ -1,0 +1,12 @@
+{
+    "experimentalInteractiveRunEvents": true,
+    "watchForFileChanges": false,
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+        "reportDir": "cypress/report",
+        "charts": true,
+        "reportPageTitle": "Demo Report",
+        "embeddedScreenshots": true
+      }
+
+}
