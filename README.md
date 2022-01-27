@@ -1,38 +1,36 @@
-# Introduccion a Cypress
+# Introduction cypress automation with jenkins file
 
-## Para iniciar el proyecto
+## Install the project
 
-```npm install``` para instalar las dependencias 
+```npm install``` install project dependencies
 
 
-## Correr los tests de manera local 
-
-En la terminal del visual studio code 
+## Run tests locally
 
  ```npx cypress open```
 
-## Correr los tests con npm o en modo headless
+## Run test in headless mode
 
 ```npm run test```
 
 
-## En caso de que inicies el proyecto desde cero
+## Initial project of cero
+
+Before you use this project you only need to have Node JS installed in your computer
  
- en un folder nuevo creas la carpeta del proyecto en el terminal
+Create a new folder 
  
-  ```mkdir nombreproyecto```
+  ```mkdir nameProject```
   
-  para crear el package.json
+Create the package.json file
  
   ```npm init -y``` 
   
-  para instalar cypress
+Install cypress 
  
  ```npm install cypress``` o ```npm install cypress --save-dev```
  
- para iniciar el directorio de cypress
- 
- 
+Create the cypress directory
  
  ```npx cypress open```
  
