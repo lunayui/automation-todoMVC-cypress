@@ -14,7 +14,7 @@
 ```npm run test```
 
 
-## Initial project of cero
+## Initial project from Scratch
 
 Before you use this project you only need to have Node JS installed in your computer
  
